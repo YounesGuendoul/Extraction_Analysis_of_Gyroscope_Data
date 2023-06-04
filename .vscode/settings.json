@@ -1,0 +1,55 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:/Users/younes G/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:/Users/younes G/.platformio/packages/toolchain-g++armnoneeabi/bin/arm-none-eabi-gcc.exe",
+  "C_Cpp_Runner.debuggerPath": "C:/Users/younes G/.platformio/packages/toolchain-gdbarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+  "C_Cpp_Runner.cStandard": "c11",
+  "C_Cpp_Runner.cppStandard": "c++11",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wconversion",
+    "-Wnull-dereference",
+    "-Wsign-conversion"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "c:/Users/younes G/Documents/PlatformIO/Projects/gyroscope/include",
+    "c:/Users/younes G/Documents/PlatformIO/Projects/gyroscope/src",
+    "c:/Users/younes G/Documents/PlatformIO/Projects/gyroscope/.pio/libdeps/sparkfun_samd21_dev_usb/MPU6050/src",
+    "C:/Users/younes G/.platformio/packages/framework-arduino-samd-sparkfun/libraries/Wire",
+    "C:/Users/younes G/.platformio/packages/framework-cmsis/CMSIS/Include",
+    "C:/Users/younes G/.platformio/packages/framework-cmsis-atmel/CMSIS/Device/ATMEL",
+    "C:/Users/younes G/.platformio/packages/framework-arduino-samd-sparkfun/cores/arduino",
+    "C:/Users/younes G/.platformio/packages/framework-arduino-samd-sparkfun/variants/SparkFun_SAMD21_Dev",
+    "C:/Users/younes G/.platformio/packages/framework-arduino-samd-sparkfun/libraries/HID",
+    "C:/Users/younes G/.platformio/packages/framework-arduino-samd-sparkfun/libraries/I2S/src",
+    "C:/Users/younes G/.platformio/packages/framework-arduino-samd-sparkfun/libraries/LilyMini_Guide/src",
+    "C:/Users/younes G/.platformio/packages/framework-arduino-samd-sparkfun/libraries/SAMD_AnalogCorrection/src",
+    "C:/Users/younes G/.platformio/packages/framework-arduino-samd-sparkfun/libraries/SDU/src",
+    "C:/Users/younes G/.platformio/packages/framework-arduino-samd-sparkfun/libraries/SPI",
+    "C:/Users/younes G/.platformio/packages/framework-arduino-samd-sparkfun/libraries/USBHost/src",
+    ""
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "C_Cpp_Runner.showCompilationTime": false
+}
